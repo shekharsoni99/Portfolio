@@ -1,8 +1,11 @@
 # My Portfolio
-
+<i>
 🔦 This is my portfolio website created using HTML, CSS and JS.
+</i>
+  
+📲 Fully responsive for small, medium and large screens.
 
-📲 Fully responsive 
+Portfolio link: https://mynew-portfolio.netlify.app/
 
 ![1](https://user-images.githubusercontent.com/94068631/166291810-2e55009a-895b-421f-99fd-632fe438c0c9.jpg)
 
