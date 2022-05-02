@@ -1,6 +1,8 @@
 # My Portfolio
 
-This is my portfolio website created using HTML, CSS and JS.
+🔦 This is my portfolio website created using HTML, CSS and JS.
+
+📲 Fully responsive 
 
 ![1](https://user-images.githubusercontent.com/94068631/166291810-2e55009a-895b-421f-99fd-632fe438c0c9.jpg)
 
